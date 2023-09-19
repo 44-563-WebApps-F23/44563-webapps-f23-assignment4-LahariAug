@@ -19,7 +19,6 @@
     {
         background-color:lightcyan;
         color: red;
-        padding: 20px;
     }
     .speech
     {
@@ -36,5 +35,15 @@
     {
         font-family: Georgia, 'Times New Roman', Times, serif;
         color: darkorange;
+    }
+    table , th, td
+    {
+        border: 1px solid;
+        width:max-content;
+        border-collapse: collapse;
+        text-align: center;
+        background-color:darkseagreen;
+        padding: 1px;
+        margin: Left;
     }
 
