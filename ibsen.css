@@ -1,0 +1,39 @@
+    .AuthorName
+    {
+        font-family: 'Courier New', Courier, monospace;
+        color: green;
+    }
+    .name
+    {
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+    }
+    .direction
+    {
+        font-family: 'Courier New', Courier, monospace;
+        color:black;
+        font-size: 18px;
+        background-color: aliceblue;
+    }
+    .direction:hover
+    {
+        background-color:lightcyan;
+        color: red;
+    }
+    .speech
+    {
+        font-family: 'Courier New', Courier, monospace;
+        color:black;
+        font-size: 20px;
+    }
+    .HEDDA
+    {
+        font-family: 'Times New Roman', Times, serif;
+        color: lightseagreen;
+    }
+    .BRACK
+    {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: darkorange;
+    }
+
