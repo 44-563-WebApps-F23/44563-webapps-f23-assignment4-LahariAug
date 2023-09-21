@@ -31,19 +31,48 @@
         font-family: 'Times New Roman', Times, serif;
         color: lightseagreen;
     }
+    .HEDDA:hover
+    {
+        text-shadow: 2px 2px 5px;
+        color:blueviolet;
+        border-style:outset;
+    }
     .BRACK
     {
         font-family: Georgia, 'Times New Roman', Times, serif;
         color: darkorange;
     }
-    table , th, td
+    .BRACK:hover
     {
+        text-shadow: 2px 2px 5px;
+        color:blueviolet;
+        border-style: outset;
+    }
+    table {
         border: 1px solid;
+    } 
+    th, td
+    {
+        
         width:max-content;
         border-collapse: collapse;
         text-align: center;
-        background-color:darkseagreen;
         padding: 1px;
         margin: Left;
     }
+    tr:first-child{
+        background: gray;
+        color: black;
+        font-weight: bold;
+    }
+    tr:nth-child(2n+3){
+        background: aquamarine;
+    }
+    h1:hover
+    {
+        text-shadow: 2px 2px 5px;
+        color:red;
+        border-style: outset;
+    }
+    
 
